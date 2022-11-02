@@ -11,6 +11,10 @@
     {
       "id": "ApiCalls_1",
       "isDefault": false
+    },
+    {
+      "id": "Child_Page",
+      "isDefault": false
     }
   ],
   "viewMode": false,
